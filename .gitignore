@@ -1,1 +1,16 @@
-/build
+*.iml
+/local.properties
+/build.cmd
+/.externalNativeBuild/*
+/bin/*
+/build/*
+/libs/*
+/.gradle/*
+/gradle*
+/obj/*
+/gen/*
+/.idea/*
+/.settings/*
+/src/main/jni/dlib/*
+/captures/*
+/reports/*
